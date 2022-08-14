@@ -20,19 +20,19 @@
     description: "Learn how to trade and invest with stockify's real life simulator, with no risk.",
     images: [
       {
-        url: 'cover.png',
+        url: '../../static/cover.png',
         width: 800,
         height: 600,
         alt: 'Stockify cover image'
       },
       {
-        url: 'cover.png',
+        url: '../../static/cover.png',
         width: 900,
         height: 800,
         alt: 'Stockify cover image'
       },
-      { url: 'cover.png' },
-      { url: 'cover.png' }
+      { url: '../../static/cover.png' },
+      { url: '../../static/cover.png' }
     ],
     site_name: 'Stockify'
   }}
@@ -41,7 +41,7 @@
     cardType: 'summary_large_image',
     title: 'Using More of Config',
     description: "Learn how to trade and invest with stockify's real life simulator, with no risk.",
-    image: 'cover.png',
+    image: '../../static/cover.png',
     imageAlt: 'Stockify cover image'
   }}
 />
