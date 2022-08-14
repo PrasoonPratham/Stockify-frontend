@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<nav class="m-2">
+<nav class="m-3">
 	<div class="navbar bg-primary text-primary-content rounded-2xl shadow">
 		<div class="navbar-start">
 			<div class="dropdown">
