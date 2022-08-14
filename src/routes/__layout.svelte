@@ -39,7 +39,7 @@
   twitter={{
     handle: '@Stockify_',
     cardType: 'summary_large_image',
-    title: 'Using More of Config',
+    title: 'Stockify | Learn how to invest',
     description: "Learn how to trade and invest with stockify's real life simulator, with no risk.",
     image: 'https://raw.githubusercontent.com/PrasoonPratham/Stock-app-frontend/main/static/cover.png',
     imageAlt: 'Stockify cover image'
