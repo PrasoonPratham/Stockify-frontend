@@ -19,7 +19,7 @@
 				</label>
 				<ul
 					tabindex="0"
-					class="mt-3 p-2 shadow menu dropdown-content bg-base-100 w-52 border-2 border-neutral rounded-lg"
+					class="mt-3 p-2 shadow menu dropdown-content bg-base-100 w-52 border-2 border-neutral"
 				>
 					<li><a href="/">Homepage</a></li>
 					<li><a href="/">Simulator</a></li>
@@ -124,7 +124,7 @@
 				</label>
 				<ul
 					tabindex="0"
-					class="mt-3 p-2 shadow menu dropdown-content bg-base-100 w-52 border-2 border-neutral rounded-lg"
+					class="mt-3 p-2 shadow menu dropdown-content bg-base-100 w-52 border-2 border-neutral"
 				>
 					<li>
 						<a class="justify-between" href="/"> Profile </a>
