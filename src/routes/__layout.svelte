@@ -1,9 +1,9 @@
 <script>
 	import '../app.css';
-	import Nav from '../components/nav.svelte';
-	import { onMount } from 'svelte'
-  	import { themeChange } from 'theme-change'
-	import { MetaTags, JsonLd } from 'svelte-meta-tags';
+	import Nav from '../lib/nav.svelte';
+	import { onMount } from 'svelte';
+  	import { themeChange } from 'theme-change';
+	import { MetaTags } from 'svelte-meta-tags';
 
 	onMount(() => {
     	themeChange(false)

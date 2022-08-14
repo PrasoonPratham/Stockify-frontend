@@ -40,11 +40,10 @@
 		<div class="navbar-end">
 			<label class="swap swap-rotate">
 				<!-- this hidden checkbox controls the state -->
-				<input type="checkbox" />
+				<input type="checkbox" data-toggle-theme="emerald,black" />
 
-				<span class="btn btn-ghost btn-circle swap-on "><Moon size="20" class="opacity-70" /></span>
-				<span class="btn btn-ghost btn-circle swap-off"><Sunny size="20" class="opacity-70" /></span
-				>
+				<span class="btn btn-ghost btn-circle swap-on"><Moon size="20" class="opacity-70" /></span>
+				<span class="btn btn-ghost btn-circle swap-off"><Sunny size="20" class="opacity-70" /></span>
 			</label>
 
             <button class="btn btn-ghost btn-circle">
