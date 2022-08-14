@@ -13,7 +13,7 @@
 <MetaTags
   title="Stockify"
   titleTemplate = '%s | Learn how to invest'
-  description="This example uses more of the available config options."
+  description="Learn how to trade and invest with stockify's real life simulator, with no risk."
   openGraph={{
     url: 'https://stockify.prathamprasoon.com',
     title: 'Stockify',
