@@ -1,8 +1,7 @@
 <script>
-	import { NotificationsSharp, PersonSharp, PieChartOutline, Sunny, Moon } from 'svelte-ionicons';
 </script>
 
-<nav class="p-3">
+<nav class="m-2">
 	<div class="navbar bg-primary text-primary-content rounded-2xl shadow">
 		<div class="navbar-start">
 			<div class="dropdown">
