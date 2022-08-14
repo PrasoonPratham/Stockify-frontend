@@ -13,11 +13,11 @@
 <MetaTags
   title="Stockify"
   titleTemplate = '%s | Learn how to invest'
-  description="Learn how to trade and invest with stockify's real life simulator, with no risk."
+  description="Learn how to trade and invest with stockify's real life simulator, at no risk."
   openGraph={{
     url: 'https://stockify.prathamprasoon.com',
     title: 'Stockify',
-    description: "Learn how to trade and invest with stockify's real life simulator, with no risk.",
+    description: "Learn how to trade and invest with stockify's real life simulator, at no risk.",
     images: [
       {
         url: 'https://raw.githubusercontent.com/PrasoonPratham/Stock-app-frontend/main/static/cover.png',
@@ -40,7 +40,7 @@
     handle: '@Stockify_',
     cardType: 'summary_large_image',
     title: 'Stockify | Learn how to invest',
-    description: "Learn how to trade and invest with stockify's real life simulator, with no risk.",
+    description: "Learn how to trade and invest with stockify's real life simulator, at no risk.",
     image: 'https://raw.githubusercontent.com/PrasoonPratham/Stock-app-frontend/main/static/cover.png',
     imageAlt: 'Stockify cover image'
   }}
