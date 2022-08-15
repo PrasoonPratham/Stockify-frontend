@@ -18,7 +18,7 @@
 					>
 				</label>
 
-				<ul tabindex="0" class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-base-300 shadow">
+				<ul tabindex="0" class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-accent-content shadow">
 					<li><a href="/">Home</a></li>
 					<li><a href="/">Simulator</a></li>
 					<li><a href="/about">About</a></li>
@@ -131,7 +131,7 @@
 				</label>
 				<ul
 					tabindex="0"
-					class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-base-300 shadow"
+					class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-accent-content shadow"
 				>
 					<li>
 						<a class="justify-between" href="/"> Profile </a>
