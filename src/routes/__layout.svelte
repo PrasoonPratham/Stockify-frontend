@@ -1,6 +1,7 @@
 <script>
 	import '../app.css';
 	import Nav from '../lib/nav.svelte';
+	import Footer from '../lib/footer.svelte';
 	import { onMount } from 'svelte';
 	import { themeChange } from 'theme-change';
 	import { MetaTags } from 'svelte-meta-tags';
@@ -53,3 +54,4 @@
 
 <Nav />
 <slot />
+<Footer />

@@ -4,7 +4,8 @@ const config = {
 	theme: {
 		extend: {
 			fontFamily: {
-				poppins: ['Poppins']
+				poppins: ['Poppins'],
+				inter: ['Inter'],
 			}
 		}
 	},
