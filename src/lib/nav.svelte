@@ -1,4 +1,4 @@
-<nav class="sticky z-10 top-0 bg-inherit p-1 py-2">
+<nav class="fixed left-0 w-full z-10 top-0 bg-inherit p-1 py-2">
 	<div class="navbar bg-primary text-primary-content shadow p-3 rounded-box bg-clip-border ">
 		<div class="navbar-start">
 			<div class="dropdown">
