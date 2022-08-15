@@ -19,9 +19,9 @@
 				</label>
 
 				<ul tabindex="0" class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-base-300 shadow">
-					<li><a>Item 1</a></li>
-					<li><a>I have border</a></li>
-					<li><a>Item 3</a></li>
+					<li><a>Home</a></li>
+					<li><a>Simulator</a></li>
+					<li><a>About</a></li>
 				</ul>
 			</div>
 		</div>
