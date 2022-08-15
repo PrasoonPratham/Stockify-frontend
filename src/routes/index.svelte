@@ -1,7 +1,12 @@
 <script>
 </script>
-<div class="flex flex-col items-center justify-center bg-base-300 h-screen">
-    <p class="m-10 text-2xl md:text-4xl lg:text-5xl font-medium font-poppins">Work In Progress 👀🛠</p>
-    <progress class="progress progress-primary bg-neutral-content w-56"></progress>
-</div>
 
+<div class="hero min-h-screen bg-gradient-to-t from-base-300 to-base-100">
+	<div class="hero-content text-center">
+		<div class="max-w-lg">
+			<p class="text-2xl md:text-4xl lg:text-5xl font-medium font-poppins">Work In Progress 👀🛠</p>
+			<progress class="progress progress-primary bg-neutral-content w-56 m-10" />
+		</div>
+        
+	</div>
+</div>
