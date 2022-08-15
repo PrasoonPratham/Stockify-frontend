@@ -1,5 +1,5 @@
-<nav class="sticky z-10 top-0 bg-inherit">
-	<div class="navbar bg-primary text-primary-content shadow lg:p-3">
+<nav class="sticky z-10 top-0 bg-inherit p-1 my-2">
+	<div class="navbar bg-primary text-primary-content shadow p-3 rounded-box">
 		<div class="navbar-start">
 			<div class="dropdown">
 				<label tabindex="0" class="btn btn-ghost btn-circle" for="">
@@ -131,7 +131,7 @@
 				</label>
 				<ul
 					tabindex="0"
-					class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content drop-shadow-md shadow-base-300 font-mono"
+					class="menu bg-base-100 w-56 rounded-xl p-2 dropdown-content drop-shadow-md shadow-base-300 font-mono"
 				>
 					<li>
 						<a class="justify-between" href="/"> Profile </a>
