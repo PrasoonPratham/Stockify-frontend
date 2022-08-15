@@ -1,4 +1,4 @@
-<nav class="m-3">
+<nav class="m-2 sticky top-3 z-10">
 	<div class="navbar bg-primary text-primary-content rounded-box shadow">
 		<div class="navbar-start">
 			<div class="dropdown">
@@ -19,9 +19,9 @@
 				</label>
 
 				<ul tabindex="0" class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-base-300 shadow">
-					<li><a>Home</a></li>
-					<li><a>Simulator</a></li>
-					<li><a>About</a></li>
+					<li><a href="/">Home</a></li>
+					<li><a href="/">Simulator</a></li>
+					<li><a href="/about">About</a></li>
 				</ul>
 			</div>
 		</div>
@@ -46,7 +46,7 @@
 						/></svg
 					>
 				</div>
-				<p class="p-1">Stockify</p></a
+				<p class="m-1">Stockify</p></a
 			>
 		</div>
 		<div class="navbar-end">
@@ -108,7 +108,7 @@
 				</div>
 			</button>
 
-			<div class="dropdown dropdown-end">
+			<div class="dropdown dropdown-end ">
 				<label tabindex="0" class="btn btn-ghost btn-circle" for="">
 					<div class="w-7">
 						<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"
