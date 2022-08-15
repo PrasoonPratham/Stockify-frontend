@@ -1,4 +1,4 @@
-<nav class="m-2 sticky top-3 z-10">
+<nav class="p-1 my-2 sticky z-10 top-0 bg-inherit">
 	<div class="navbar bg-primary text-primary-content rounded-box shadow">
 		<div class="navbar-start">
 			<div class="dropdown">
@@ -46,7 +46,7 @@
 						/></svg
 					>
 				</div>
-				<p class="m-1">Stockify</p></a
+				<p class="ml-1">Stockify</p></a
 			>
 		</div>
 		<div class="navbar-end">
