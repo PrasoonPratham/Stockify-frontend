@@ -3,6 +3,9 @@ const config = {
 
 	theme: {
 		extend: {
+			fontFamily: {
+				poppins: ['Poppins']
+			}
 		}
 	},
 
