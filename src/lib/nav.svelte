@@ -18,7 +18,7 @@
 					>
 				</label>
 
-				<ul tabindex="0" class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-accent-content shadow">
+				<ul tabindex="0" class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border border-accent-content shadow font-mono">
 					<li><a href="/">Home</a></li>
 					<li><a href="/">Simulator</a></li>
 					<li><a href="/about">About</a></li>
@@ -26,7 +26,7 @@
 			</div>
 		</div>
 		<div class="navbar-center">
-			<a class="btn btn-ghost normal-case text-xl font-serif" href="/"
+			<a class="btn btn-ghost normal-case text-xl md:text-2xl font-poppins font-normal" href="/"
 				><div class="w-7">
 					<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"
 						><title>Pie Chart</title><path
@@ -131,7 +131,7 @@
 				</label>
 				<ul
 					tabindex="0"
-					class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border-2 border-accent-content shadow"
+					class="menu bg-base-100 w-56 rounded-xl mt-3 p-2 dropdown-content border border-accent-content shadow font-mono"
 				>
 					<li>
 						<a class="justify-between" href="/"> Profile </a>
