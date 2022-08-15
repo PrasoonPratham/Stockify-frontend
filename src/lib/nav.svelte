@@ -1,5 +1,5 @@
-<nav class="p-1 my-2 sticky z-10 top-0 bg-inherit">
-	<div class="navbar bg-primary text-primary-content rounded-box shadow lg:p-3">
+<nav class="sticky z-10 top-0 bg-inherit">
+	<div class="navbar bg-primary text-primary-content shadow lg:p-3">
 		<div class="navbar-start">
 			<div class="dropdown">
 				<label tabindex="0" class="btn btn-ghost btn-circle" for="">
