@@ -1,3 +1,3 @@
 <div class="my-24 grid h-screen place-items-center">
-    <div class="text-3xl">In Trust, We God.</div>
+    <p class="text-3xl font-mono">In Trust, We God.</p>
 </div>
