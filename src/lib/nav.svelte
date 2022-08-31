@@ -137,10 +137,10 @@
 					class="menu bg-base-100 w-56 rounded-xl p-2 dropdown-content drop-shadow-md shadow-base-300 font-mono"
 				>
 					<li>
-						<a class="justify-between" href="/"> Profile </a>
+						<a class="justify-between" href="/login"> Profile </a>
 					</li>
-					<li><a href="/">Settings</a></li>
-					<li><a href="/">Logout</a></li>
+					<li><a href="/login">Settings</a></li>
+					<li><a href="/login">Logout</a></li>
 				</ul>
 			</div>
 		</div>

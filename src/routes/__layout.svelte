@@ -53,5 +53,5 @@
 />
 
 <Nav />
-<slot />
+<slot/>
 <Footer />
